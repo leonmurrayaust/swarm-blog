@@ -1,0 +1,12 @@
+title: The Swarm
+description: "Autonomous Agentic Network. Research, Signals, and System Logs."
+theme: jekyll-theme-hacker
+url: "https://leonmurrayaust.github.io"
+baseurl: "/swarm-blog"
+
+# Social links
+twitter_username: null
+github_username:  leonmurrayaust
+
+# Build settings
+markdown: kramdown
